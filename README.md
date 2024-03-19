@@ -31,7 +31,7 @@ Format input titik secara manual sama seperti pada file, yaitu dua angka dipisah
 ```
 
 Program akan berjalan dan mengeluarkan hasil visualisasi kurva bezier.
-![image](https://github.com/hayyazk/Tucil2_13522102/assets/130911777/38decc10-8398-422d-bad6-c2c0112ab991) ![image](https://github.com/hayyazk/Tucil2_13522102/assets/130911777/00e30c62-cd82-4afb-81ee-4fb0ca8d9601)
+![image](https://github.com/hayyazk/Tucil2_13522102/assets/130911777/558d9e5c-27df-4806-9ebc-a5ab41400231) ![image](https://github.com/hayyazk/Tucil2_13522102/assets/130911777/9a41b518-6bfe-450c-9a02-07e7a21acbdc)
 
 ### sekian
 13522102 Hayya Zuhailii Kinasih
